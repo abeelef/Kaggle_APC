@@ -1,11 +1,13 @@
 # Kaggle APC
 
+https://www.kaggle.com/datasets/datasnaek/league-of-legends/data
+
 Aquest repositori conté les solucions desenvolupades per al projecte **Kaggle (assignatura APC)**. L'objectiu és aplicar tècniques de Machine Learning i anàlisi de dades per resoldre problemes avançats de predicció, seguint els estàndards de les competicions de Kaggle.
 
 ## Continguts
 
 - **scripts/**: Conté els scripts principals utilitzats per al pre-processament, entrenament i avaluació dels models.
-- **data/**: Arxius csv i json per emmagatzemar les dades.
+- **data/**: Arxius csv i json per emmagatzemar les dades, extrets del link de la 1a fila.
 - **notebooks/**: Jupyter Notebooks amb l'anàlisi inicial i la visualització de resultats.
 
 ## Dependències
