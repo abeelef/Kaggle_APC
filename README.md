@@ -2,7 +2,7 @@
 
 https://www.kaggle.com/datasets/datasnaek/league-of-legends/data
 
-Aquest repositori conté les solucions desenvolupades per al projecte **Kaggle (assignatura APC)**. L'objectiu és aplicar tècniques de Machine Learning i anàlisi de dades per resoldre problemes avançats de predicció, seguint els estàndards de les competicions de Kaggle.
+Aquest repositori conté les solucions desenvolupades per al projecte **Kaggle (assignatura APC)**. L'objectiu és aplicar tècniques de Machine Learning i anàlisi de dades per resoldre problemes avançats de predicció, seguint els estàndards de les competicions de Kaggle. Principalment es predeix el guanyador en base als diferents moments i situacions en les partides.
 
 ## Continguts
 
